@@ -10,7 +10,7 @@ I also contribute to the News Engineering Team at The Daily Tar Heel, serve as C
 
 ⚡ Outside of school: I like hiking, painting, live music, and interior design
 
-💌 Email me at any time at kgb042@outlook.com!
+💌 Email me anytime at kgb042@outlook.com!
 
 ## ⚙️ Tech Stack
 
