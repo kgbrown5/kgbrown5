@@ -1,6 +1,6 @@
 # Hi, I'm Katie! 🌟
 
-I'm a junior at UNC Chapel Hill studying Computer Science and Information Science. I'm pursuing a career in software engineering, and I am interested in full-stack development and promoting usability. I am always trying to learn more and I love collaborating with those around me.
+I'm a junior at UNC Chapel Hill studying Computer Science and Information Science. I'm pursuing a career in software engineering and I am interested in full-stack development and promoting usability. I am always trying to learn more and I love collaborating with those around me.
 
 On campus, I am an Undergraduate Teaching Assistant for COMP110 where I work with our instructor and 60+ teaching assistants to aid 800+ students across technical and nontechnical majors. I am able to provide individualized support in office hours, quickly diagnose student code issues in real time, and clearly communicate effective solutions and underlying concepts.
 
