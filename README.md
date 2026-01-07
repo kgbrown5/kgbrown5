@@ -2,11 +2,9 @@
 
 I'm a junior at UNC Chapel Hill studying Computer Science and Information Science. I'm pursuing a career in software engineering and am interested in full-stack development, as well as promoting usability. I am always trying to learn more and I love collaborating with those around me.
 
-On campus, I am an Undergraduate Teaching Assistant for COMP110, where I collaborate with our instructor and over 60 teaching assistants to support more than 800 students across technical and non-technical majors. I provide individualized support during office hours, quickly diagnose student code issues in real time, and clearly communicate effective solutions and underlying concepts.
+On campus, I am an Undergraduate Teaching Assistant for COMP423, contribute to the News Engineering Team at The Daily Tar Heel, serve as Director of Membership for Kappa Theta Pi, a professional technology organization, and I'm an active member of my sorority, Pi Beta Phi. 
 
-I also contribute to the News Engineering Team at The Daily Tar Heel, serve as Co-Director of Recruitment for Kappa Theta Pi, a professional technology organization, and I'm an active member of my sorority, Pi Beta Phi. 
-
-➡️ Currently: I'm catching up on my reading list, studying for my AWS certification, and planning KTP recruitment!!
+➡️ Currently: I'm catching up on my reading list and getting ready for the next semester!
 
 ⚡ Outside of school: I like hiking, painting, live music, and interior design
 
