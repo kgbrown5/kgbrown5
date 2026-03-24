@@ -1,14 +1,14 @@
 # Hi, I'm Katie! 🌟
 
-I'm a junior at UNC Chapel Hill studying Computer Science and Information Science. I'm pursuing a career in software engineering and am interested in full-stack development, as well as promoting usability. I am always trying to learn more and I love collaborating with those around me.
+I'm a junior at UNC Chapel Hill studying Computer Science and Information Science. I'm pursuing a career in software engineering and I am interested in full-stack development and UI/UX design. I am always trying to learn more and I love collaborating with those around me!
 
-On campus, I am an Undergraduate Teaching Assistant for COMP423, contribute to the News Engineering Team at The Daily Tar Heel, serve as Director of Membership for Kappa Theta Pi, a professional technology organization, and I'm an active member of my sorority, Pi Beta Phi. 
+On campus, I am an Undergraduate Teaching Assistant for COMP423, serve as Director of Membership for Kappa Theta Pi, a professional technology organization, and I am an active member of my sorority, Pi Beta Phi. 
 
 ➡️ Currently: I'm catching up on my reading list and getting ready for the next semester!
 
-⚡ Outside of school: I like hiking, painting, live music, and interior design
+⚡ Outside of school: I like hiking, painting, & live music
 
-💌 Email me anytime at kgb042@outlook.com!
+💌 Email me anytime! kgb042@outlook.com
 
 ## ⚙️ Tech Stack
 
